@@ -13,11 +13,11 @@ elif player == 2:
 
 import time
 
-print('JO')
+print('\033[34:40mJO\033[m')
 time.sleep(1)
-print('KEN')
+print('\033[34:40mKEN\033[m')
 time.sleep(1)
-print('PO!!!')
+print('\033[34:40mPO!!!\033[m')
 time.sleep(1)
 
 import random
